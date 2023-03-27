@@ -1,1 +1,4 @@
 https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
+Go the given link and download the dataset (PlantVillage).Unzip the folder and delete extra folders like tomato and bell pepper diseases folder. 
+The 3 total folders you need for this are: Potato_Earlyblight, Potato_Lateblight and Potato_healthy. Just keep these 3 folders.
